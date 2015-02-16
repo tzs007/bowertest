@@ -1,0 +1,27 @@
+{
+  "name": "module2",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tzs007/bowertest",
+  "authors": [
+    "Takács Zsolt <tzsbmo@gmail.com>"
+  ],
+  "description": "bower multiple modules test 2",
+  "main": "index.html",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "test",
+    "modules"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "",
+    "test",
+    "tests"
+  ]
+}
