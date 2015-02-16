@@ -1,2 +1,2 @@
 # bowertest
-i testing bower with multiple folders
+i test bower with multiple folders
